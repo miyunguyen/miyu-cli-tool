@@ -1,6 +1,7 @@
 use clap::Command;
 
 mod commands;
+mod services;
 
 fn main() {
     let matches: clap::ArgMatches = Command::new("miyu")
