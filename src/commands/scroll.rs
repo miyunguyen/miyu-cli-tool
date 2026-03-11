@@ -11,6 +11,7 @@ pub fn run() {
         "https://dev.to",
         "https://archive.org/",
         "https://substack.com/",
+        "https://github.com/explore",
     ];
 
     let mut rng = rng();
