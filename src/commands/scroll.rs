@@ -10,6 +10,7 @@ pub fn run() {
         "https://www.pinterest.com/",
         "https://dev.to",
         "https://archive.org/",
+        "https://substack.com/",
     ];
 
     let mut rng = rng();
